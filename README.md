@@ -6,17 +6,26 @@ Python, Microframework Flask, Docker, Kubernetes, MongoDB, HTML
 
 # Περιγραφή Αρχείων:
 
-docker-compose.yml συνδέει τα container του server και της βάσης δεδομένων
+1. # docker-compose.yml
+Σύνδεση του container με την βάση δεδομένων
 
-Dockerfile για τη δημιουργία image
+2. # Dockerfile
+Δημιουργία image
 
-initialize_db.py για την προσθήκη του admin στο db αν δεν είναι ήδη
+3. # kubernetes_setup.yml
 
-run.py api με τα route
 
-requirements.txt τα requirements για να τρέξει το run.py
+4. # initialize_db.py
+Προσθήκη του admin στο db αν δεν υπάρχει ήδη
 
-app file με τα templates (HTML)
+5. # run.py
+
+
+6. # requirements.txt
+Τα requirements για να τρέξει το run.py
+
+7. # app file
+Templates (HTML)
 
 # Τρόπος Εκτέλεσης:
 
