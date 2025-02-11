@@ -1,7 +1,5 @@
 # Διαχείριση Επιχειρησιακών Διεργασιών και Νεφοϋπολογιστική
 
-# YpoxreotikiErgasia24_E20148_Skourtanioti_Despoina
-
 # Τεχνολογίες:
 
 Python, Microframework Flask, Docker, Kubernetes, MongoDB, HTML
@@ -48,8 +46,7 @@ password: @dm1n
 Λειτουργικότητες Doctor:
 1. αλλαγή κωδικού
 2. αλλαγή κόστους
-3. διαγραφή doctor
-4. προβολή ραντεβού
+3. προβολή ραντεβού
 
 Λειτουργικότητες Patient:
 1. εγγραφη
