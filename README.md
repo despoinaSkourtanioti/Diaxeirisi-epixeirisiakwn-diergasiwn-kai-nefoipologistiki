@@ -19,7 +19,8 @@ app file με τα templates (HTML)
 2. Extract των αρχείων
 3. CMD: CD στο directory του hospital_management
 4. ```docker-compose up --build```
-5. Σε ένα browser: localhost:5000
+5. Σε ένα browser:
+localhost:5000
 
 # Τρόπος Χρήσης:
 
