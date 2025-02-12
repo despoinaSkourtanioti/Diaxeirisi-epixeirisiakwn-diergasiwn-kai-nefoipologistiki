@@ -30,10 +30,10 @@ Templates (HTML).
 # Τρόπος Εκτέλεσης:
 
 1. git clone
-2. CMD: CD στο directory του hospital_management
-3. ```docker-compose up --build```
+2. CD hospital_management
+3. ```kubectl apply -f kubernetes_setup.yaml```
 4. Σε ένα browser:
-localhost:5000
+http://localhost:30988
 
 # Τρόπος Χρήσης:
 
