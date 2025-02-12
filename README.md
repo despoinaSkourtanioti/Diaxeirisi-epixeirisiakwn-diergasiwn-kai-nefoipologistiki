@@ -32,8 +32,9 @@ Templates (HTML).
 1. git clone
 2. CD hospital_management
 3. ```kubectl apply -f kubernetes_setup.yaml```
-4. Σε ένα browser:
-http://localhost:30988
+4. ```kubectl get services```
+5. Σε ένα browser: http://localhost:<port του flask-service>
+   π.χ. αν port(s) ```5000:31251/TCP``` τότε http://localhost:31251
 
 # Τρόπος Χρήσης:
 
