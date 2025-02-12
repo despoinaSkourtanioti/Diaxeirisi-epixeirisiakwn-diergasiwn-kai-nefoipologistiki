@@ -44,7 +44,7 @@ Templates (HTML).
 3. patients
 4. appointments
 
-Admin credentials:
+##### Admin credentials:
 Username: admin
 password: @dm1n
 
