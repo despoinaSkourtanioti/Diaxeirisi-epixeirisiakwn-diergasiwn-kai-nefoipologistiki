@@ -7,33 +7,32 @@ Python, Microframework Flask, Docker, Kubernetes, MongoDB, HTML
 # Περιγραφή Αρχείων:
 
 ### 1. docker-compose.yml
-Σύνδεση του container με την βάση δεδομένων
+Σύνδεση του container με την βάση δεδομένων.
 
 ### 2. Dockerfile
-Δημιουργία image
+Δημιουργία image.
 
 ### 3. kubernetes_setup.yml
-
+Περιέχει τα Kubernetes manifests για την ενορχήστρωση των containers στο Kubernetes cluster.
 
 ### 4. initialize_db.py
-Προσθήκη του admin στο db αν δεν υπάρχει ήδη
+Προσθήκη του admin στο db αν δεν υπάρχει ήδη.
 
 ### 5. run.py
-
+Εφαρμογή που περιλαμβάνει τα routes.
 
 ### 6. requirements.txt
-Τα requirements για να τρέξει το run.py
+Τα requirements για να τρέξει το run.py.
 
 ### 7. app file
-Templates (HTML)
+Templates (HTML).
 
 # Τρόπος Εκτέλεσης:
 
-1. Download των αρχείων
-2. Extract των αρχείων
-3. CMD: CD στο directory του hospital_management
-4. ```docker-compose up --build```
-5. Σε ένα browser:
+1. git clone
+2. CMD: CD στο directory του hospital_management
+3. ```docker-compose up --build```
+4. Σε ένα browser:
 localhost:5000
 
 # Τρόπος Χρήσης:
