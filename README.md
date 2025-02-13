@@ -94,5 +94,5 @@ password: @dm1n
 ![Screenshot (386)](https://github.com/despoinaSkourtanioti/YpoxreotikiErgasia24_E20148_Skourtanioti_Despoina/assets/137726116/38754e2d-135b-4e75-8277-e0b22b51f751)
 ### Προβολή ραντεβού signed in ως doctor:
 ![Screenshot (387)](https://github.com/despoinaSkourtanioti/YpoxreotikiErgasia24_E20148_Skourtanioti_Despoina/assets/137726116/c4313310-8a80-480c-afdd-bf898cc89e7c)
-### Η "προβολή ραντεβού" μετά τη διαγραφή του doctor από τον admin (signed in σαν patient):
+### Η "προβολή ραντεβού" (signed in σαν patient) μετά τη διαγραφή του doctor από τον admin:
 ![Screenshot (388)](https://github.com/despoinaSkourtanioti/YpoxreotikiErgasia24_E20148_Skourtanioti_Despoina/assets/137726116/5cb9ed23-b757-46f8-95fa-1da13c8a7947)
